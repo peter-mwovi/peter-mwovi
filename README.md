@@ -1,6 +1,6 @@
 
 
-<p align="center">I'm Peter Mwovi, a software developer specialized in Frontend. I have a strong enthusiasm for creating attractive and functional interfaces using technologies like HTML, CSS, and JavaScript. Currently, I'm focused on learning and mastering the latest trends in Frontend development.</p>
+<p align="center">I'm Peter Mwovi, a software developer specialized in Front-end. I have a strong enthusiasm for creating attractive and functional interfaces using technologies like HTML, CSS, and JavaScript. Currently, I'm focused on learning and mastering the latest trends in Frontend development.</p>
 
 ### <p align="center">Technical Skills</p>
 
